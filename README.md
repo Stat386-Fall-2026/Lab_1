@@ -154,6 +154,15 @@ Verify that uv was installed:
    - [SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
 ---
+# Generate your own Lab 1 Repository
+
+1. Navigate to the top right of this repository and click **Use this template** > **Create a new repository** to generate your personal lab environment.
+   
+2. Generate your repository, having the owner as **Stat386-Fall-2026** and Repository name as
+   **netid_lab_1**. Make sure you make a **private repository**.
+
+
+
 
 # Get the Lab 1 Repository
 
