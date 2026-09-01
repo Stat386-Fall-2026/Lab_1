@@ -219,9 +219,11 @@ After confirming that the document runs successfully, stop the Quarto preview by
 
 Then commit and push your work:
 
+```bash
 git add .
 git commit -m "Fix Me"
 git push
+```
 
 After pushing your changes, request a review from the collaborator as instructed.
 ---
