@@ -1,0 +1,12 @@
+Welcome to Quarto! Quarto is used for publishing documents with executable code chunks like the one below that displays your uv version:
+
+```{python}
+import subprocess
+
+result = subprocess.run("uv --version", shell=True, capture_output=True, text=True)
+
+print(result.stdout)
+
+with open("finished.txt", "w") as f:
+	f.write(f"uv version: {result.stdout}")
+```
