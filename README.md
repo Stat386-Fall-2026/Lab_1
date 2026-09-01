@@ -188,22 +188,6 @@ You should now be working inside your local copy of the Lab 1 repository.
 
 ---
 
-# Set Up the Project Environment
-
-The Lab 1 repository contains the project configuration needed for this assignment.
-
-From inside the repository, run:
-
-```bash
-uv sync
-```
-
-This command creates or updates the project environment and installs the Python packages required by the lab.
-
-Open the Lab 1 repository folder in Positron and make sure Positron is using the environment associated with the project.
-
----
-
 # Run the Supplied Quarto Document
 
 Open main.qmd in Positron.
