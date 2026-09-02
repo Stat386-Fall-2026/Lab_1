@@ -238,7 +238,7 @@ Lab 1 complete
 **Message**
 
 ```text
-@local-llm-user process config-dir: lab01/ in instructor-repo: test-llm-editor-org/sample_instructor_repo
+@local-llm-user process config-dir: Lab_1/ in instructor-repo: Stat386-Fall-2026/Instructor_Repo
 ```
 
 The course collaborator should create a new issue asking several questions about your experience. Answer the questions by commenting on the newly created issue.
