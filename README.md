@@ -245,9 +245,9 @@ Copy and paste this exact line into the comment box:
 ```
 **Do not put the following command in the Issue description. It must be posted as a comment after the Issue has been created.**
 
-After you post the comment, the collaborator should respond with a message indicating that a job has been created. Once processing is finished, you should receive another comment indicating that the job has completed.
+After you post the comment, the collaborator should respond with a message, after a minute or two, indicating that a job has been created. Once processing is finished (should take another couple of minutes), you should receive another comment indicating that the job has completed.
 
-The course collaborator should then create a new Issue titled: "Repository Review for lab01"
+The course collaborator should then create a new Issue titled: "Repository Review for lab01" that you can access from the Issues tab in the GitHub repository.
 
 This Issue will contain a few follow-up questions about your experience completing the lab.
 
